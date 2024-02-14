@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body{
-    background-color: rgba(103, 159, 224, 0.388);
+    background-color: rgba(137, 43, 226, 0.388);
     font: 15px arial;
 }
 header{
@@ -13,9 +13,8 @@ section{
     padding: 15px;
     margin: auto;
     width: 500px;
-    text-align: left;
+    text-align: center;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.421);
-    line-height: 40px;
 }
 footer{
     color: white;
